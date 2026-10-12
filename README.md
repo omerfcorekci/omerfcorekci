@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ömer 👋</h1>
 <h3 align="center">AI & Full-Stack Software Engineer</h3>
-<p align="center">LLMs & AI Agents · AWS Cloud · iOS Development · Computer Vision · 3D Software</p>
+<p align="center">LLMs & AI Agents · AWS Cloud · iOS Development · Computer Vision </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omerfarukcorekci/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
